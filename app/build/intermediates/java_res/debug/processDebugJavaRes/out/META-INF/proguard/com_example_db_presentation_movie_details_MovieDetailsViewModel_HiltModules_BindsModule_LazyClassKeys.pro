@@ -1,0 +1,1 @@
+-keep,allowobfuscation,allowshrinking class com.example.db.presentation.movie_details.MovieDetailsViewModel
